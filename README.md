@@ -1,12 +1,12 @@
 # Demo
 
-![image](https://github.com/Cheng-Yi-Ting/Dynamic-hotel-room-list/blob/master/demo-images/操作影片.gif)
+![image](https://github.com/Cheng-Yi-Ting/Hotel-Room/blob/master/demo-images/操作影片.gif)
 
 ## 1.   頁面
 
 **頁面可分為A、B、C三個區塊，以下針對各區塊進行說明。**
 
-![image](https://github.com/Cheng-Yi-Ting/Dynamic-hotel-room-list/blob/master/demo-images/首頁.png)
+![image](https://github.com/Cheng-Yi-Ting/Hotel-Room/blob/master/demo-images/首頁.png)
 
 ## A.       飯店資訊
 
